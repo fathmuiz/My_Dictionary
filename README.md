@@ -18,12 +18,6 @@ MyDictionary is a simple and efficient Android application for managing your per
 - **Database**: SQLite
 - **Architecture**: Activity-based with Helper patterns
 
-## 📱 Screenshots
-
-| Main Dashboard | Word List & Search | Add/Edit Data |
-|---|---|---|
-| ![Main](app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp) | (List View) | (Form View) |
-
 ## 🏗️ Getting Started
 
 1. **Clone the repository**:
